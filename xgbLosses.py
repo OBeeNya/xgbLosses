@@ -1,6 +1,6 @@
 import numpy as np
 
-class xgbLosses:
+class XgbLosses:
     """
     Class containing custom objective functions for XGBoost.
     Implementing such a class allows to pass each function as hyperparameter of the model with different values for alpha, gamma...
